@@ -51,7 +51,7 @@ I then broke this down further by Region.
 
 And then by Platform, finding a similar result across all.
 
-![Session Duration by Platform](/Images/duration_platform.png)
+![Session Duration by Platform](/Images/duration_platofrm.png)
 
 ## Retention Analysis
 I then went on to look at retention across 7, 14 and 30 day periods. 
